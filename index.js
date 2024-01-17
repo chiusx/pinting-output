@@ -33,7 +33,7 @@ console.log(result);
 //TASK2
 let first_name = "Shane"
 let last_name = "Chiu"
-let email = "qiu00039@algonquinlive.com"
+let email = "xxxxx@algonquinlive.com"
 // Interpolation using backticks
 let output = `My name is ${first_name} ${last_name}. You can contact me at ${email}.`;
 
